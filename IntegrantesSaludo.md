@@ -6,5 +6,6 @@ Postworks Grupo 13
 ## Lo integramos los siguientes miembros:
 
 * Rafael Ibarra
+* Angelica Luna Garcia
 
 (aqui se agregan conforme entren al repo. El ultimo en entrar borre esta linea)
