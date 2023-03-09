@@ -7,5 +7,6 @@ Postworks Grupo 13
 
 * Rafael Ibarra
 * Angelica Luna Garcia
+* Omar Valentín Ortega Martínez
 
 (aqui se agregan conforme entren al repo. El ultimo en entrar borre esta linea)
