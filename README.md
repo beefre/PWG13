@@ -10,5 +10,5 @@ Desarrollo Web en Java.
 * Angelica Luna Garcia
 * Omar Valentín Ortega Martínez
 * Ruano Salinas Edgar Antuan
-
+* Hugo Mendez
 
